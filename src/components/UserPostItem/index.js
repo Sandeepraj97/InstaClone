@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unknown-property */
 import {Link} from 'react-router-dom'
 import {BsHeart} from 'react-icons/bs'
 import {BiShareAlt} from 'react-icons/bi'
