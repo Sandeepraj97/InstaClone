@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
-/* eslint-disable react/no-unknown-property */
 import {Link, withRouter} from 'react-router-dom'
 import Cookies from 'js-cookie'
 import {useState} from 'react'
