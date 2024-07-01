@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unknown-property */
+
 import './index.css'
 import Cookies from 'js-cookie'
 import Slider from 'react-slick'
