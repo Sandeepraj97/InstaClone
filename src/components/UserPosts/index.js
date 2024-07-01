@@ -1,5 +1,3 @@
-/* eslint-disable prettier/prettier */
-/* eslint-disable react/no-unknown-property */
 import './index.css'
 import Cookies from 'js-cookie'
 import {Component} from 'react'
